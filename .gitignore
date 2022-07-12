@@ -1,0 +1,7 @@
+.mypy_cache/
+__pache__/
+
+# To large
+dataset/
+
+encodings.pickle
